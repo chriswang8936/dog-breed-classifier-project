@@ -19,7 +19,7 @@ below libraries are used
 
 
 ## File Descriptions
-- Airbnb_Data (folder)
+- dog image and human image
 
 This contains the source files for this project.
 
