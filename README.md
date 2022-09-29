@@ -29,8 +29,8 @@ The following Airbnb features is included in this Seattle dataset:
     - Reviews, including unique id for each reviewer and detailed comments
     - Calendar, including listing id and the price and availability for that day
 
-- goodbreed (Jupyter Source File)
-This is the Jupyter notebook conducts all the code and analysis
+- dog_app (Jupyter Source File)
+This is the Jupyter notebook conducts all the code and analysis and results
 
 ## Results
 
